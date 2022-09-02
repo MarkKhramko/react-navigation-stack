@@ -2,6 +2,21 @@
 
 Navigation controller of components stack for React JS.
 
+## Usage
+
+Wrap your component inside `NavigationStack`
+
+```js
+  import NavigationStack from 'react-navigation-stack';
+
+  ...
+
+  <NavigationStack>
+    <YourComponent />
+  </NavigationStack>
+```
+On render your component will receive `navigationStackController` object in props.
+
 
 ## Methods
 
