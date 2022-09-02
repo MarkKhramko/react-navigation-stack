@@ -1,0 +1,23 @@
+{
+  "name": "react-navigation-stack",
+  "version": "0.0.1",
+  "description": "React component to manage single page transitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkKhramko/react-navigation-stack.git"
+  },
+  "author": "Mark Khramko <markkhramko@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarkKhramko/react-navigation-stack/issues"
+  },
+  "homepage": "https://github.com/MarkKhramko/react-navigation-stack#readme",
+  "dependencies": {
+    "nanoid": "^4.0.0",
+    "react-transitions": "^1.0.0"
+  }
+}
